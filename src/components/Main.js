@@ -34,18 +34,18 @@ class Main extends React.Component {
         >
           <h2 className="major">Work</h2>
           <p>
-            Sean is currently expanding his skillset as Native Mobile Developer
-            by day and refining his Full-Stack Javascript Kung-Fu by night while
-            always curious to explore the emerging AR/VR/XR technology
-            landscape.
+            Sean is currently expanding his skillset as a Native Mobile
+            Developer by day and refining his Full-Stack Javascript Kung-Fu by
+            night while always curious to explore the emerging AR/VR/XR
+            technology landscape.
           </p>
           <span className="image main">
             <img src={Bablio} alt="" />
           </span>
           <p>
             His current pet project, Bablio: Tracking Transmedia Narratives,
-            envisions a new media tool that helps capture, catalogue and connect
-            our collective interest in storytelling across all platforms.
+            envisions a new media tool that helps capture our collective
+            interest in storytelling across all platforms.
           </p>
           <p />
           {close}
