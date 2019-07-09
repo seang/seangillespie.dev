@@ -34,18 +34,18 @@ class Main extends React.Component {
         >
           <h2 className="major">Work</h2>
           <p>
-            Sean is a Native Mobile Developer by day and refining his Full-Stack
+            Sean is a Native Mobile Developer by day who refines his Full-Stack
             Javascript Kung-Fu by night while always curious to explore the
             emerging AR/VR/XR technology landscape.
+          </p>
+          <p>
+            His current pet project, Bablio, envisions a new media tool that
+            helps capture, organize and personalize our collective interest in
+            storytelling across all platforms.
           </p>
           <span className="image main">
             <img src={Bablio} alt="" />
           </span>
-          <p>
-            His current pet project, Bablio, envisions a new media tool that
-            helps capture and personalize our collective interest in
-            storytelling across all platforms.
-          </p>
           <p />
           {close}
         </article>
@@ -62,11 +62,12 @@ class Main extends React.Component {
             <img src={seangillespie} className="headshot" alt="" />
           </span>
           <p>
-            Sean Gillespie is an iOS/Android Application Developer on the Cloud
-            Team at ThoughtWire Corp in Toronto. Sean has spent the last decade
-            working with Web Startups, Digital Media and eCommerce companies. He
-            is an alumnus of the BrainStation Full Stack Web Development
-            Immersive and Introductory iOS Development programs.
+            Sean Gillespie is a Software Engineer working with iOS/Android
+            Native Applications on the Cloud Team at ThoughtWire Corp in
+            Toronto. Sean has spent the last decade working with Web Startups,
+            Digital Media and eCommerce companies. He is an alumnus of the
+            BrainStation Full Stack Web Development Immersive and Introductory
+            iOS Development programs.
           </p>
           {close}
         </article>
