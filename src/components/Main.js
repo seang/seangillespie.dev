@@ -113,7 +113,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://angel.co/oneirocom"
+                href="https://angel.co/Oneirocom"
                 className="icon fa-angellist"
               >
                 <span className="label">AngelList</span>
@@ -121,7 +121,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/in/oneirocom/"
+                href="https://www.linkedin.com/in/Oneirocom/"
                 className="icon fa-linkedin"
               >
                 <span className="label">Linkedin</span>

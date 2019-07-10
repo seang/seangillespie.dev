@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Oneirocom Online',
+    title: 'Oneirocom',
     author: 'Hunter Chang',
     description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
   },
