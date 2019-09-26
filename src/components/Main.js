@@ -105,7 +105,7 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/Oneirocom"
+                href="https://twitter.com/SeanCapitalG"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
@@ -113,7 +113,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://angel.co/Oneirocom"
+                href="https://angel.co/SeanG"
                 className="icon fa-angellist"
               >
                 <span className="label">AngelList</span>
@@ -121,14 +121,14 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/in/Oneirocom/"
+                href="https://www.linkedin.com/in/seanpatrickgillespie/"
                 className="icon fa-linkedin"
               >
                 <span className="label">Linkedin</span>
               </a>
             </li>
             <li>
-              <a href="https://github.com/Oneirocom" className="icon fa-github">
+              <a href="https://github.com/SeanG" className="icon fa-github">
                 <span className="label">GitHub</span>
               </a>
             </li>

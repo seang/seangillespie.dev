@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Oneirocom',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    title: 'Sean Gillespie',
+    description: 'Software Developer',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
