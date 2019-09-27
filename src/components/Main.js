@@ -62,9 +62,7 @@ class Main extends React.Component {
             <img src={seangillespie} className="headshot" alt="" />
           </span>
           <p>
-            Sean Gillespie is a Software Engineer working with iOS/Android
-            Native Applications on the Cloud Team at ThoughtWire Corp in
-            Toronto. Sean has spent the last decade working with Web Startups,
+            Sean Gillespie is a Software Developer at Myplanet and a Full-Stack Development Assistant Instructor at the U of T School of Continuing Studies. Sean has spent the last decade working with Web Startups,
             Digital Media and eCommerce companies. He is an alumnus of the
             BrainStation Full Stack Web Development Immersive and Introductory
             iOS Development programs.
