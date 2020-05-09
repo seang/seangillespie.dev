@@ -6,7 +6,7 @@ import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
 import seangillespie from '../images/seangillespie.jpg'
 import Bablio from '../images/bablio.png'
-import resume from '../images/seangillespie-resume-2019.pdf'
+import resume from '../images/seangillespieresume2020.pdf'
 
 class Main extends React.Component {
   render() {
@@ -25,7 +25,7 @@ class Main extends React.Component {
         id="main"
         style={this.props.timeout ? { display: 'flex' } : { display: 'none' }}
       >
-        <article
+        {/* <article
           id="work"
           className={`${this.props.article === 'work' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
@@ -34,12 +34,10 @@ class Main extends React.Component {
         >
           <h2 className="major">Work</h2>
           <p>
-            Sean is a Native Mobile Developer by day who refines his Full-Stack
-            Javascript Kung-Fu by night while always curious to explore the
-            emerging AR/VR/XR technology landscape.
+            
           </p>
           <p>
-            His current pet project, Bablio, envisions a new media tool that
+            Bablio, envisions a new media tool that
             helps capture, organize and personalize our collective interest in
             storytelling across all platforms.
           </p>
@@ -48,7 +46,7 @@ class Main extends React.Component {
           </span>
           <p />
           {close}
-        </article>
+        </article> */}
 
         <article
           id="about"
@@ -62,10 +60,17 @@ class Main extends React.Component {
             <img src={seangillespie} className="headshot" alt="" />
           </span>
           <p>
-            Sean Gillespie is a Software Developer at Myplanet and a Full-Stack Development Assistant Instructor at the U of T School of Continuing Studies. Sean has spent the last decade working with Web Startups,
+            Sean is Full-Stack Developer specializing in JavaScript and Python.
+            He has experience with native Android and iOS apps and is always curious to explore
+            emerging toolkits for building out the AR/VR/XR technology landscape.
+            <br></br><br></br>
+            He is currently a Software Developer at Myplanet and a Teaching Assistant for the Full-Stack Web Development and Data Science remote bootcamp programs for the University of Arizona and UC Berkeley Extension. Having also recently completed a cohort as Full-Stack Development Assistant Instructor at the U of T School of Continuing Studies. 
+            <br></br><br></br>
+            He has spent the last decade working with Web Startups,
             Digital Media and eCommerce companies. He is an alumnus of the
             BrainStation Full Stack Web Development Immersive and Introductory
-            iOS Development programs.
+            iOS Development programs. 
+   
           </p>
           {close}
         </article>

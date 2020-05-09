@@ -24,7 +24,7 @@ const Header = props => (
             About
           </a>
         </li>
-        <li>
+        {/* <li>
           <a
             href="javascript:;"
             onClick={() => {
@@ -33,7 +33,7 @@ const Header = props => (
           >
             Work
           </a>
-        </li>
+        </li> */}
 
         <li>
           <a
